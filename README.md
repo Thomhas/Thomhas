@@ -1,15 +1,6 @@
 # Hi there, I'm Thomas 👋 
 
 
-## I'm a CS student and developer from Norway!!
-
-- 🌱 I’m currently in my third year of Computer Science
-- 👯 I work with other students at [dotkom](https://github.com/dotkom) to deliver technical solutions for students
-- 🥅 2023 Goals: Contribute more!
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I love languages and music
-
-
 ### 📫 Connect with me:
 
 &nbsp;&nbsp;
